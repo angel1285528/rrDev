@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import  ComingSoon  from "./components/ComingSoon"; // Assuming the file name is "ComingSoon.tsx" with a capital "C"
+import  ComingSoon  from "./components/comingSoon"; // Assuming the file name is "ComingSoon.tsx" with a capital "C"
 export default function Home() {
   return (
     <main className="flex min-80 flex-col items-center justify-between pt-10">
