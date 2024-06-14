@@ -1,0 +1,2 @@
+
+export const rrLogo: string = "https://static.wixstatic.com/media/79c405_85320741e3974fde8607e13ccb3fb17d~mv2.png/v1/fill/w_316,h_255,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLR-Painting-and-Decorating-Logo-Officia.png"
